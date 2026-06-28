@@ -64,7 +64,7 @@ I build full-stack products — from polished web dashboards to AI-powered deskt
 
 <p>
 
-  <a href="[https://github.com/reachrazamair"><img](https://github.com/Zohair10"><img) src="[https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)" /></a>
+  <a href="[https://github.com/Zohair10"><img](https://github.com/Zohair10"><img) src="[https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)" /></a>
 
 </p>
 
